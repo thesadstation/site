@@ -1,0 +1,17 @@
+/* app/globals.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #121212; /* অন্ধকার থিম */
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  border-bottom: 1px solid #333;
+}
+
+a {
+  color: #00bcd4;
+  text-decoration: none;
+}
